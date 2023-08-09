@@ -2,4 +2,4 @@
 
 I'm Kanishka from srilanka 
 
-https://github-readme-stats.vercel.app/api?110kanishkamedankara110=thatonecalculator&theme=rose_pine
+![Kanishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=110kanishkamedankara110&theme=rose_pine)
