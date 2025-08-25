@@ -1,6 +1,31 @@
 # 💫 About Me:
 
-👋 About Me<br><br>Hi there! I'm Kanishka, a 24-year-old Associate Software Engineer at Exon Software Solutions, passionate about crafting seamless digital experiences and solving complex problems with elegant solutions.<br><br>🌟 Expertise<br><br>Programming Languages: Java, Python, JavaScript<br>Web Development: Full-Stack Development with modern frameworks and tools<br>AI & Algorithms: Enthusiast in Artificial Intelligence, Video Streaming, and Genetic Algorithms<br>Cross-Platform: Android Development and Cross-Platform Solutions<br><br>🚀 Highlights<br><br>Built a JavaScript Neural Network and developed a Drawing Classifier<br>Worked on innovative video streaming projects, including encryption and playback systems<br>Hands-on with 3D scene manipulation using React Three Fiber and react-three-rapier<br><br>📈 Personal Traits<br><br>I approach challenges with an analytical mindset, balancing creativity and problem-solving. I prioritize tasks effectively to deliver quality results while managing workloads efficiently.<br><br>🛠️ Current Focus<br><br>Exploring the integration of 3D graphics with soft-body physics in interactive web apps, advancing APIs using Jersey, and refining my expertise in AI-driven applications.<br><br>📬 Let's Connect<br><br>Feel free to explore my repositories, collaborate, or just say hi! 😊
+<h3>👋 About Me</h3>
+<p>Hi! I'm <strong>Kanishka</strong>, passionate about crafting seamless digital experiences and solving complex problems with elegant, maintainable solutions.</p>
+
+<h3>🌟 Expertise</h3>
+<ul>
+  <li><strong>Programming Languages:</strong> Java, Python, JavaScript</li>
+  <li><strong>Web Development:</strong> Full-Stack Development with modern frameworks and tools</li>
+  <li><strong>AI & Algorithms:</strong> Enthusiast in Artificial Intelligence, Video Streaming, and Genetic Algorithms</li>
+  <li><strong>Cross-Platform:</strong> Android Development and Cross-Platform Solutions</li>
+</ul>
+
+<h3>🚀 Highlights</h3>
+<ul>
+  <li>Built a <strong>JavaScript Neural Network</strong> and a <strong>Drawing Classifier</strong></li>
+  <li>Worked on <strong>video streaming projects</strong>, including encryption, playback, and microservices</li>
+  <li>Hands-on experience with <strong>3D scene manipulation</strong> using React Three Fiber and react-three-rapier</li>
+</ul>
+
+<h3>📈 Personal Traits</h3>
+<p>I approach challenges with an analytical mindset, balancing creativity and problem-solving. I prioritize tasks effectively to deliver high-quality results while managing workloads efficiently.</p>
+
+<h3>🛠️ Current Focus</h3>
+<p>Exploring <strong>3D graphics with soft-body physics</strong>, advancing <strong>APIs using Jersey</strong>, and refining my expertise in <strong>AI-driven applications</strong>.</p>
+
+<h3>📬 Let’s Connect</h3>
+<p>Check out my repositories, collaborate on projects, or just say hi! 😊</p>
 
 
 ## 🌐 Socials:
